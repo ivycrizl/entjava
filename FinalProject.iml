@@ -20,8 +20,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="TomEE 8.5.41" level="application_server_libraries" />
-    <orderEntry type="library" name="JSF" level="project" />
-    <orderEntry type="module-library" scope="PROVIDED">
+    <orderEntry type="library" scope="PROVIDED" name="JSF" level="project" />
+    <orderEntry type="module-library" exported="" scope="PROVIDED">
       <library>
         <CLASSES>
           <root url="jar://D:/apache-tomee-7.1.1-plume/apache-tomee-plume-7.1.1/lib/javax.faces-2.2.12.jar!/" />

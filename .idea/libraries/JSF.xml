@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="JSF" type="jsf">
     <CLASSES>
-      <root url="jar://D:/apache-tomee-7.1.1-plume/apache-tomee-plume-7.1.1/lib/javax.faces-2.2.12.jar!/" />
+      <root url="jar://D:/apache-tomee-plume-7.1.1/lib/javax.faces-2.2.12.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
